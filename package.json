@@ -1,7 +1,7 @@
 {
   "name": "pexels-proxy",
   "version": "1.0.0",
-  "description": "Proxy server to fetch images from Pexels API with batch support and CORS enabled",
+  "description": "Smart proxy for Pexels API with multi-key fallback and CORS",
   "main": "index.js",
   "type": "module",
   "scripts": {
